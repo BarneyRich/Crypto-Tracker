@@ -12,7 +12,7 @@
         <!--View Controller-->
         <scene sceneID="Qcr-GR-7zM">
             <objects>
-                <viewController id="oJp-vk-go3" customClass="ViewController" customModule="ByteCoin" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="oJp-vk-go3" customClass="ViewController" customModule="Crypto_Tracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="eJt-IZ-kH0">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
